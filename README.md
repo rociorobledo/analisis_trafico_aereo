@@ -2,7 +2,7 @@
 
 Dashboard desarrollado con **Power BI** que analiza el tráfico aéreo de pasajeros en Argentina utilizando datos públicos del SIAC (Sistema Integrado de Aviación Civil).
 
-<img src="assets/images/traficoaereo.jpg" width="250">
+<img src="assets/images/trafico-aereo.jpg" width="500">
 
 ## 📊 Descripción del proyecto
 
