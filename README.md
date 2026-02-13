@@ -12,6 +12,13 @@ Este proyecto explora:
 - Estacionalidad y picos de demanda
 - Rutas más transitadas
 
+## 📁 Fuente de datos
+
+Los datos utilizados provienen del **Sistema Integrado de Aviación Civil (SIAC)** de Argentina, específicamente de la base de datos pública de transporte aéreo de pasajeros.
+
+🔗 **[Descargar base de datos original](https://datos.gob.ar/dataset/turismo-conectividad-aerea)**  
+*(Fuente: Conectividad Aérea - Subsecretaría de Turismo. Dirección Nacional de Mercados y Estadística)*
+
 ## 🛠️ Tecnologías utilizadas
 - Excel
 - Power Query
@@ -21,4 +28,3 @@ Este proyecto explora:
 ---
 
 Desarrollado por **Rocio Robledo** - Data & Digital Analyst
-https://datos.gob.ar/dataset/turismo-conectividad-aerea
